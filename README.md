@@ -1,4 +1,6 @@
 FAK-DNS for AdGuard Home
+
+F**K GFW
 ==================
 
 中国特定配置，改善您最喜爱的 DNS 服务器。
@@ -46,7 +48,7 @@ Usage
 
 ![](https://s2.loli.net/2024/01/02/86f3HDuQMzScewI.jpg)
 
-直接能用👉<https://raw.githubusercontent.com/Leev1s/FAK-DNS/master/converted/FAK-DNS.txt>
+直接能用👉<https://raw.githubusercontent.com/jasonxu114514/FAK-DNS/master/converted/FAK-DNS.txt>
 如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
 文件下载下来之后，进入AdGuard Home的目录，一般在/opt/AdGuardHome，编辑AdGuardHome.yaml
 
@@ -59,7 +61,7 @@ Usage
 重启AdGuardHome就可以了
 
 > # 如果你方便可以给我一个Star🌟吗
-> <https://github.com/Leev1s/FAK-DNS>
+> <https://github.com/jasonxu114514/FAK-DNS>
 
 License
 =======
