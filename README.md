@@ -9,10 +9,6 @@ F**K GFW
 
 - 尽可能获得您附近最好的 CDN 节点，但不要影响国外 CDN 的结果，这样您也可以同时为您的 VPN 获得最佳的 CDN 节点。
 
-文件截图如下
-
-![](https://s2.loli.net/2024/01/04/N4QkHzlaSCIDbrt.jpg)
-
 Details
 =======
 主要的文件在`converted`文件夹下
@@ -44,20 +40,13 @@ Details
 Usage
 =====
 
-根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，默认国内走阿里DOH，国外走Cloudflare DOH。默认合并了googlehost，applehost，和国内域名。
-
-![](https://s2.loli.net/2024/01/02/86f3HDuQMzScewI.jpg)
+根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。
 
 直接能用👉<https://raw.githubusercontent.com/jasonxu114514/FAK-DNS/master/converted/FAK-DNS.txt>
 如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
 文件下载下来之后，进入AdGuard Home的目录，一般在/opt/AdGuardHome，编辑AdGuardHome.yaml
 
-![](https://s2.loli.net/2024/01/02/NmDTxR46sCGtked.jpg)
-
-填写配置文件
-
-![](https://s2.loli.net/2024/01/02/eh1NsW3p7IlMVdj.jpg)
-
+具体教程 👉<https://blog.jasonxu.xyz/archives/dns-china>
 重启AdGuardHome就可以了
 
 > # 如果你方便可以给我一个Star🌟吗
