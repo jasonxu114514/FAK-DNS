@@ -17,7 +17,6 @@ avatar.xboxlive.com
 bg4.v4.a.dl.ws.microsoft.com
 bg.v4.a.dl.ws.microsoft.com
 blog.tutorabc.com
-build.microsoft.com
 cashier.alipay.com.srip.net
 catalog-cdn.xboxlive.com
 cdn1.evernote.com
@@ -32,11 +31,9 @@ china-cdn3.unityads.unity3d.com
 china.msn.com
 china.nba.com
 china.uxengine.net
-cl2.apple.com.edgekey.net.globalredir.akadns.net
 click.dji.com
 client-download.steampowered.com
 clubhub.xboxlive.com
-clubweixin.samsung.com
 cms.ibm.com
 cms-live.pandora.net
 cn-api.samsungcloud.com
@@ -59,8 +56,6 @@ console-service-ssl.halo.xbox.com
 content.nike.com
 cortexfx.bnpparibas.com
 createpoint.qti.qualcomm.com
-crl.globalsign.net
-crl.kaspersky.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
 dlassets-ssl.xboxlive.com
@@ -91,10 +86,7 @@ gateway.craft.moe
 gdssl.image-gmkt.com
 g-ec4.images-amazon.com
 gfwsl.geforce.com
-globalsigncdn.com
 gravatar.loli.net
-gsp11-cn.ls.apple.com
-gsp12-cn.ls.apple.com
 gstatic.loli.net
 hdn.xnimg.cn.cdngc.net
 images.benchmarkemail.com
@@ -142,10 +134,9 @@ mktplassets-ssl.xbox.com
 msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 msg.xboxlive.com
+ngportal.cdnetworks.com
 nxeassets.xbox.com
-ocsp2.globalsign.com
 ocsp-data.us.cdnetworks.com
-ocsp.globalsign.com
 olay-cn.cdnpg.com
 owner-api.teslamotors.com
 partner.globalsign.com
@@ -170,19 +161,16 @@ scc.ssacdn.com
 scp-social.s-msn.com
 script.image-gmkt.com
 secaz-fota-dn.samsungdm.com
-secure.globalsign.com
 secure-nikeplus.nike.com
 security.cdnetworks.com
 sekong.cn.com
 settings.crashlytics.com
 settings.xboxlive.com
-shop.globalsign.com
 shop.samsung.com
 silverlight.dlservice.microsoft.com
 sina.com.hk
 siportal.cdnetworks.com
 slupdate.dlservice.microsoft.com
-source.tutorabc.com
 speedtest.xboxlive.com
 ssl.travelzoo.com
 ssl.tzoo-img.com
@@ -195,7 +183,7 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 store.nike.com
 store.samsung.com
-support.globalsign.com
+streaming.vn.teslamotors.com
 tcl.com.ru
 tiles.xbox.com
 titlestorage.xboxlive.com
@@ -221,7 +209,6 @@ www8.hp.com
 www.agoda.com
 www-api.ibm.com
 www.ericsson.com
-www.globalsign.com
 www.htcvive.com
 www.ibm.com
 www.ikea.com
@@ -234,7 +221,6 @@ www.renren.com.cdngc.net
 www-ssl.intel.com
 www.sulwhasoo.com
 www.travelzoo.com
-www.tutorabc.com
 www.tzoo-img.com
 xb.dlservice.microsoft.com
 x-dash-public.rec.mp.microsoft.com
